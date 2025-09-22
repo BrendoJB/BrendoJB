@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 ## 🚀 Sobre Mim
-Sou um estudante de Ciência da Computação apaixonado por dados e finalizando minha graduação. Atualmente, integro o time de dados na [Nome da Empresa ou descreva o tipo, ex: uma fintech], onde tenho a oportunidade de aplicar meus conhecimentos para resolver problemas de negócio complexos e gerar insights através de análise de dados e Machine Learning.
+Sou um estudante de Ciência da Computação apaixonado por dados e finalizando minha graduação. Atualmente, integro o time de dados na Equatorial Energia(Distribuidora de energia), onde tenho a oportunidade de aplicar meus conhecimentos para resolver problemas de negócio complexos e gerar insights através de análise de dados e Machine Learning.
 
 ### 🤖 Linguagens e Tecnologias
 
